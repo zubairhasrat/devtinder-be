@@ -1,0 +1,19 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "this is developer colaboration plateform ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript"
+  ],
+  "author": "Zubair Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
