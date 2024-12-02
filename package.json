@@ -1,0 +1,16 @@
+{
+  "name": "dev-tinder",
+  "version": "1.0.0",
+  "description": "collaboration plateform for devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Zubair Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
